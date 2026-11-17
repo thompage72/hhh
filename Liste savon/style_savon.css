@@ -1,0 +1,16 @@
+html, body {
+ padding: 10px;
+background-color: #dfd1bc;
+}
+.b1{
+    width: 900px;       /* Largeur fixe de 300 pixels */
+  height: 350px;
+ font-size: 150%; 
+ color: #ff6d25; 
+ padding-top: 100px;
+    .i2{
+        margin-left: auto;
+    }
+ 
+
+}
